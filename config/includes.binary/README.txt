@@ -1,15 +1,16 @@
 live-miner
 ==========
-Sam Morris <sam@robots.org.uk>
+Maintained by Dan Porter <dpreid@gmail.com>
 
 Burn this image to a CD, or write it to a USB stick, and when booted a system
 will automatically begin mining bitcoins by using
 https://github.com/m0mchil/poclbm[poclbm].
 
-You can find the latest version at http://live-miner.github.com/. If something
-doesn't work, https://github.com/live-miner/live-miner/issues[file a bug] or
-mailto:sam@robots.org.uk[send me an email].  If you are feeling generous, send
-spare BTC to `1MjtnhbdVAL21meEBnhHwfMSovN7kYtrH6`.
+You can find the latest version at https://github.com/Stealthii/live-miner. If
+something doesn't work,
+https://github.com/Stealthii/live-miner/issues[file a bug] or
+mailto:dpreid@gmail.com[send me an email].  If you are feeling generous, send
+spare BTC to `1Mmc4cgmBH1As8a36w8hkAJaCSzWSHMz7w`.
 
 Requirements
 ------------
@@ -19,7 +20,7 @@ An x86_64 PC with an AMD Radeon HD 5000, 6000 or 7000 series graphics card.
 Downloads
 ---------
 
-http://live-miner.github.com/releases.html[Download live-miner here!]
+https://github.com/Stealthii/live-miner[Download live-miner here!]
 
 Configuration
 -------------
@@ -162,6 +163,8 @@ The Debian project, for being Debian!
 m0mchil, for https://github.com/m0mchil/poclbm[poclbm].
 
 Mark Visser, for https://github.com/mjmvisser/adl3[adl3].
+
+Sam Morris, for his original work on http://live-miner.github.com/[live-miner].
 
 Obligatory legal mumbo-jumbo
 ----------------------------

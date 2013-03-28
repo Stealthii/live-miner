@@ -8,7 +8,7 @@ lb config noauto \
 	--bootappend-live quiet \
 	--hdd-label LIVE-MINER \
 	--iso-application live-miner \
-	--iso-publisher 'live-miner; http://live-miner.github.com/' \
+	--iso-publisher 'live-miner; https://github.com/Stealthii/live-miner' \
 	--iso-volume "live-miner $(date +%Y%m%d-%H:%M)" \
 	--compression none \
 	"${@}"
