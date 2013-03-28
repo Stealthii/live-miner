@@ -20,6 +20,7 @@ amd-opencl-icd
 python-pyopencl
 
 # useful tools
+git
 htop
 less
 psmisc
