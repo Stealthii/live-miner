@@ -1,6 +1,6 @@
 [submodule "config/includes.chroot/opt/poclbm"]
 	path = config/includes.chroot/opt/poclbm
-	url = ../poclbm.git
+	url = git://github.com/m0mchil/poclbm.git
 [submodule "config/includes.chroot/opt/adl3"]
 	path = config/includes.chroot/opt/adl3
-	url = ../adl3.git
+	url = git://github.com/mjmvisser/adl3.git
